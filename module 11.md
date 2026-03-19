@@ -218,7 +218,7 @@ Thus, the program prints the sum of the integers in the array is verified succes
 
  
 ## EXP NO 25: C PROGRAM TO COUNT THE NUMBER OF WORDS IN A      SENTENCE
-### DATE: 11/2/2026
+### DATE: 11/3/2026
 ### Aim:
 
 To write a C program that counts the number of words in a given sentence.
