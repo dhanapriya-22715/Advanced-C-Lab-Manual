@@ -1,7 +1,7 @@
 ## NAME: DHANAPPRIYA S
 ## REG NO: 212224230056
 ## EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
-
+### DATE: 17/2/2026
 ### Aim:
 To write a C program to search a given element in the given linked list.
 
@@ -50,6 +50,7 @@ Thus, the program to search a given element in the given linked list is verified
 
  
 ## EXP NO:17  PROGRAM TO INSERT A NODE IN A LINKED LIST.
+### DATE: 18/2/2026
 ### Aim:
 To write a C program to insert a node in a linked list.
 ### Algorithm:
@@ -101,6 +102,7 @@ Thus, the program to insert a node in a linked list is verified successfully.
 
  
 ## EXP NO:18 C PROGRAM TO TRAVERSE A DOUBLY LINKED LIST
+### DATE: 19/2/2026
 ### Aim:
 To write a C program to traverse a doubly linked list.
 
@@ -147,6 +149,7 @@ Thus, the program to traverse a doubly linked list is verified successfully.
 
 
 ## EXP NO:19 C PROGRAM TO INSERT AN ELEMENT IN DOUBLY LINKED LIST
+### DATE: 20/2/2026
 ### Aim:
 To write a C program to insert an element in doubly linked list
 
@@ -205,7 +208,7 @@ Thus, the program to insert an element in doubly linked list is verified success
 
 
 ## EXP NO:20 C FUNCTION TO DELETE A GIVEN ELEMENT IN THE GIVEN LINKED LIST
-
+### DATE: 21/2/2026
 ### Aim:
 To write a C function that deletes a given element from a linked list.
 
