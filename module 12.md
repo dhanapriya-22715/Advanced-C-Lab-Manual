@@ -1,9 +1,9 @@
 ## NAME: DHANAPPRIYA S
 ## REG NO: 212224230056
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
+### DATE: 12/3/2026
 ### Aim:
 To write a C program to display stack elements using linked list.
-### DATE: 12/3/2026
 ### Algorithm:
 1.	Define a structure Node with two members: data to store the integer value and next to point to the next node in the linked list.
 2.	Declare a global variable head representing the starting node of the linked list.
