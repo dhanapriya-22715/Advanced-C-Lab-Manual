@@ -1,9 +1,9 @@
-
-
+## NAME: DHANAPPRIYA S
+## REG NO: 212224230056
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 ### Aim:
 To write a C program to display stack elements using linked list.
-
+### DATE: 12/3/2026
 ### Algorithm:
 1.	Define a structure Node with two members: data to store the integer value and next to point to the next node in the linked list.
 2.	Declare a global variable head representing the starting node of the linked list.
@@ -48,6 +48,7 @@ Thus, the program to display stack elements using linked list is verified succes
 
 
 ## EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING LINKED LIST.
+### DATE: 13/3/2026
 ### Aim:
 To write a C program to pop an element from the given stack using liked list.
 
@@ -93,6 +94,7 @@ Thus, the program to pop an element from the given stack using liked list is ver
 
  
 ## EXP NO:28 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
+### DATE: 14/3/2026
 ### Aim:
 To write a C program to display queue elements using linked list.
 ### Algorithm:
@@ -142,7 +144,7 @@ Thus, the program to display queue elements using linked list is verified succes
 
  
 ## EXP NO:29 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
-
+### DATE: 17/3/2026
 ### Aim:
 To write a C program to insert elements in queue using linked list
 
@@ -194,8 +196,7 @@ Thus, the program to insert elements in queue using linked list is verified succ
 
 
 ## EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
-
-
+### DATE: 18/3/2026
 ### Aim:
 
 The aim of this function is to retrieve the "peek" (the front element) of a queue implemented using a linked list
