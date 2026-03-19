@@ -1,7 +1,7 @@
-## NAME:DHANAPPRIYA S
-## REG NO:212224230056
-## EXP NO:1 C Program FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-## DATE:27/1/2026
+## NAME: DHANAPPRIYA S
+## REG NO: 212224230056
+## EXP NO: 1 C Program FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+## DATE: 27/1/2026
 ### Aim:
 To write a C Program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
@@ -50,8 +50,8 @@ Thus, the Program is verified successfully.
 
 ___
 
-## EXP NO:2 C Program FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
-## DATE:28/1/2026
+## EXP NO: 2 C Program FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+## DATE: 28/1/2026
 ### Aim:
 To write a C Program for passing structure as function and returning a structure from a function
 
@@ -108,8 +108,8 @@ Thus, the  Program is verified successfully
 
  ___
 
-## EXP.NO:3 C Program TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
-## DATE:29/1/2026
+## EXP.NO: 3 C Program TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
+## DATE: 29/1/2026
 ### Aim:
 To write a C  Program to read a file name from user
 
@@ -164,8 +164,8 @@ Thus, the  Program is verified successfully
  
 ___
 
-## EXP NO:4    Program TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
-## DATE:30/1/2026
+## EXP NO: 4 Program TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+## DATE: 30/1/2026
 ### Aim:
 To write a C  Program to read, a file and insert text in that file
 ### Algorithm:
@@ -230,7 +230,7 @@ Thus, the  Program is verified successfully
 ___
 
 ## Ex No 5 : C  Program TO DISPLAY STUDENT DETAILS USING STRUCTURE
-## DATE:31/1/2026
+## DATE: 31/1/2026
 ### Aim:
 The Aim of this Program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
 
